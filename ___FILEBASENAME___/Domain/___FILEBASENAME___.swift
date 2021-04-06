@@ -1,0 +1,3 @@
+class ___FILEBASENAME___ {
+
+}
